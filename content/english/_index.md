@@ -5,7 +5,7 @@ banner:
   bg_image: "images/sliderArt.jpeg"
   bg_overlay: true
   title: "MISSIONARIES OF MOTHER TERESA"
-  content: "A Roman catholic Public Association of Christ's Faithful"
+  content: "A Roman catholic Clerical Secular Institute of Missionaries of Mother Teresa"
   #button:
   #  enable: true
   #  label: "Discover Our Project"
